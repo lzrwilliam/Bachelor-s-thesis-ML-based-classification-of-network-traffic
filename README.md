@@ -98,7 +98,7 @@ An interactive web app allows users to:
 | XGBoost        | 0.979    | 0.9136   | 0.8843    | 0.9655  | 1.6s     |
 | Deep Learning  | 0.9909   | 0.9552   | 0.9443    | 0.9697  | 27.84s   |
 
-![Web Interface - Metrics](./screenshots/1.png)
+![Web Interface - Metrics](./screenshots/1.JPG)
 
 ---
 
@@ -106,7 +106,7 @@ An interactive web app allows users to:
 
 The interface also displays detailed metrics for each class:
 
-![Web Interface - Per-Class Metrics](./screenshots/2.png)
+![Web Interface - Per-Class Metrics](./screenshots/2.JPG)
 
 ---
 
