@@ -90,5 +90,31 @@ An interactive web app allows users to:
 
 ---
 
+### 🧪 Sample Results:
+
+| Model           | Accuracy | F1 Score | Precision | Recall  | Duration |
+|----------------|----------|----------|-----------|---------|----------|
+| Random Forest  | 0.988    | 0.9184   | 0.9443    | 0.9026  | 18.65s   |
+| XGBoost        | 0.979    | 0.9136   | 0.8843    | 0.9655  | 1.6s     |
+| Deep Learning  | 0.9909   | 0.9552   | 0.9443    | 0.9697  | 27.84s   |
+
+![Web Interface - Metrics](./screenshots/1.png)
+
+---
+
+### 🔍 Per-Class Evaluation
+
+The interface also displays detailed metrics for each class:
+
+![Web Interface - Per-Class Metrics](./screenshots/2.png)
+
+---
+
+## ✅ Conclusions
+
+- **Deep Learning** achieved the best overall performance (highest accuracy and recall).
+- **XGBoost** performed best on specific classes but was slightly lower in accuracy.
+- **Random Forest** delivered solid baseline results and was computationally efficient.
+
 
 
